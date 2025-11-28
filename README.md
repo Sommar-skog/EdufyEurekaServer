@@ -24,21 +24,21 @@ It only hosts the Eureka dashboard and service registry.
 
 ### Connections
 - [Edufy-infra](https://github.com/EudfyProjects/Edufy-infra) – Docker-compose + init.db
-- [EdufyEurekaServer](https://github.com/Sommar-skog/EdufyEurekaServer) – Service discovery
-- [Gateway](https://github.com/SaraSnail/EdufyGateway) – Entry point for all requests
-- [EdufyUser](https://github.com/Jamtgard/EdufyUser) – User service
-- [EdufyKeycloak](https://github.com/Sommar-skog/EdufyKeycloak) – Auth pipeline
+- [EdufyEurekaServer](https://github.com/Sommar-skog/EdufyEurekaServer) – Service discovery 
+- [Gateway](https://github.com/SaraSnail/EdufyGateway) – Entry point for all requests 
+- [EdufyUser](https://github.com/Jamtgard/EdufyUser) – User service 
+- [EdufyKeycloak](https://github.com/Sommar-skog/EdufyKeycloak) – Auth pipeline 
 
 ### Media connections
-- [EdufyCreator](https://github.com/Sommar-skog/EdufyCreator) – Creators
-- [EdufyGenre](https://github.com/a-westerberg/EdufyGenre) – Genres
-- [EdufyThumb](https://github.com/a-westerberg/EdufyThumb) – Thumbs up/down records
+- [EdufyCreator](https://github.com/Sommar-skog/EdufyCreator) – Creators 
+- [EdufyGenre](https://github.com/a-westerberg/EdufyGenre) – Genres 
+- [EdufyThumb](https://github.com/a-westerberg/EdufyThumb) – Thumbs up/down records  
 - [EdufyUtility](https://github.com/a-westerberg/EdufyUtility) – Placeholder for algorithms
 
 ### Media Services
 - [EdufyMusic](https://github.com/Jamtgard/EdufyMusic) - Music
 - [EdufyVideo](https://github.com/Sommar-skog/EdufyVideo) - Video
-- [EdufyPod](https://github.com/SaraSnail/EdufyPod) - Pod
+- [EdufyPod](https://github.com/SaraSnail/EdufyPod) - Pod  
 
 ---
 
