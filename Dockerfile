@@ -1,4 +1,4 @@
-#ED-163-AA //TODO remove skipTests later
+#ED-163-AA
 #ED-164-SA
 FROM maven:3.9.6-eclipse-temurin-21 AS build
 WORKDIR /app
